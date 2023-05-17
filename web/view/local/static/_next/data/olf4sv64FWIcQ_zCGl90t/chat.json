@@ -1,0 +1,21 @@
+{
+  "pageProps": {
+    "user": {
+      "id": "user-000000000000000000000000",
+      "name": "admin@openai.com",
+      "email": "admin@openai.com",
+      "image": "",
+      "picture": "",
+      "groups": []
+    },
+    "serviceStatus": {},
+    "userCountry": "US",
+    "geoOk": true,
+    "serviceAnnouncement": {
+      "paid": {},
+      "public": {}
+    },
+    "isUserInCanPayGroup": true
+  },
+  "__N_SSP": true
+}
